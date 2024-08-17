@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Omkar</h1>
-<h3 align="center">Tech Enthusiast|Learning,Coding and Growing.</h3>
+<h1 align="center">Hi 👋, I'm Omkar</h1>
+<h3 align="center">Tech Enthusiast|Learning,Coding and Growing</h3>
 
 - 🌱 I’m currently learning **React , Web 3**
 
@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/omkar_deepak_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omkar_deepak_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omkar deepak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar deepak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omkar-deepak-623a55293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-deepak-623a55293/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
