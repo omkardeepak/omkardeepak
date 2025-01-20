@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋 I'm Omkar</h1>
 <h3 align="center">Tech Enthusiast|Learning,Coding and Growing.</h3>
 
-- 🌱 I’m currently learning **React , Web 3**
 
 - 📫 How to reach me **omkardeepak444@gmail.com**
 
