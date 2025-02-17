@@ -2,7 +2,7 @@
 <h3 align="center">Tech Enthusiast|Learning,Coding and Growing.</h3>
 
 
-- 📫 How to reach me **omkardeepak444@gmail.com**
+- 📫 **omkardeepak444@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
